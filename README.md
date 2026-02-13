@@ -15,10 +15,9 @@ An industrial-grade real-time monitoring system for mask compliance using **YOLO
 - **Framework**: Ultralytics YOLO.
 
 - **Deployment**: Gradio Web Interface.
-
-- ##Experimental Results✨
+- Experimental Results: Successfully deployed via Gradio with real-time performance tracking.
 - 
--  Successfully deployed via Gradio with real-time performance tracking.
+
 
 
 
