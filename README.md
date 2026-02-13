@@ -16,7 +16,7 @@ An industrial-grade real-time monitoring system for mask compliance using **YOLO
 
 - **Deployment**: Gradio Web Interface.
 
-- 
-- **Experimental Results**✨
+- ##**Experimental Results**✨
 -  Successfully deployed via Gradio with real-time performance tracking.
+
 
