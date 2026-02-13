@@ -1,0 +1,7 @@
+gradio
+opencv-python-headless
+ultralytics
+plotly
+pandas
+numpy
+nest_asyncio
